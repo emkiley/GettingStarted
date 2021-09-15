@@ -28,7 +28,7 @@ For this assignment:
 -   With your software, work through the **Resources** listed in the [Software Introduction](Software_Introduction.pdf) document.
 -   Go through the [Git Tutorial](https://try.github.io/levels/1/challenges/1).
 -   Check out the other resources listed in the [Git Introduction](Git_Introduction.pdf) document.
--   Create your own repository for this assignment and clone it to your PC following the [Instructions for Cloning Assignment](Instructions_for_Cloning_Assignment.pdf)
+-   Create your own repository for this assignment and clone it to your computer following the [Instructions for Cloning Assignment](Instructions_for_Cloning_Assignment.pdf)
 -   Using [The Python Tutorial](https://docs.python.org/3/tutorial/) and [Simple Programs](https://wiki.python.org/moin/SimplePrograms), create a single python file, named 'First.py', which:
 	-    Prints 'Hello World'.
 	     *Note:  In python 3.0 and above, print is a function, not a statement.  So, 'print "Hello World"' will give an error.  Use 'print("Hello World")' instead.*
