@@ -1,7 +1,7 @@
 Getting Started
 ===============
 
-With this first assignment, we will introduce and install many different
+With this first assignment, we will introduce and install several different
 software tools. This can be somewhat overwhelming, but with a bit of work,
 reading, and using the tools you will quickly be able to use the tools. With a
 bit more practice, you will become comfortable using the tools. The goal in this
